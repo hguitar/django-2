@@ -1,5 +1,5 @@
 from django.forms import ModelForm
-from .models import *
+from .models import file_and_pic
 
 
 class my_form(ModelForm):
